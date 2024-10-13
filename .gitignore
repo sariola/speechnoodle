@@ -1,0 +1,11 @@
+.history
+__pycache__
+.ruff_cache
+.direnv
+.venv
+.envrc
+audiobb
+.mypy_cache
+.env
+speechnoodle.egg-info
+TODO.md
